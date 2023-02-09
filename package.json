@@ -1,0 +1,24 @@
+{
+  "name": "@aka-demy/create-ejs-app",
+  "version": "1.0.0",
+  "description": "Boilerplate for an EJS-Express App.",
+  "scripts": {
+    "start": "node ./src/bin/server",
+    "dev": "node --watch ./src/bin/server",
+    "format": "prettier --write \"src/**/*.js\"",
+    "lint": "eslint \"src/**/*.js\" --fix"
+  },
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "cookie-parser": "^1.4.6",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "http-errors": "^2.0.0",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.33.0",
+    "prettier": "^2.8.4"
+  },
+  "type": "module"
+}
