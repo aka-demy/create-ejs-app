@@ -1,6 +1,6 @@
 {
   "name": "@aka-demy/create-ejs-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Boilerplate for an EJS-Express App.",
   "scripts": {
     "start": "node ./src/bin/server",
