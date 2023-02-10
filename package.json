@@ -1,0 +1,28 @@
+{
+  "name": "@aka-demy/create-ejs-app",
+  "version": "1.1.0",
+  "description": "Boilerplate for an EJS-Express App.",
+  "bin": "./bin/cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aka-demy/create-ejs-app.git"
+  },
+  "keywords": [
+    "express",
+    "ejs",
+    "module"
+  ],
+  "author": "Mobin Mohanan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aka-demy/create-ejs-app/issues"
+  },
+  "homepage": "https://github.com/aka-demy/create-ejs-app#readme",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
+}
